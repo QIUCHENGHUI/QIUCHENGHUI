@@ -1,4 +1,4 @@
-## ⛳️ my tech stack
+## ⛳️ My Tech Stack
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -15,7 +15,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 <br>
-## 🚀 Github stats
+## 🚀 Github Stats
 <br>
 
 ![qiuchenghui's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=qiuchenghui)
